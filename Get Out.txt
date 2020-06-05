@@ -1,0 +1,66 @@
+Start
+Flashlight
+Full Health
+Waterfall, Stalagmite
+_
+Stalagmite Collection
+Food
++1/2 Health
+Waterfall, Canyon
+_
+Waterfall
+Water
++1/4 Health
+Stalagmite, Cavern, Den
+_
+Den
+Bear
+X
+Out
+_
+Cavern
+Gun
+X
+Limestone, Ice Sheets
+_
+Canyon
+1/2 Partial Map
+X
+Ice Sheets, Grotto
+_
+Limestone
+X
+X
+Cavern, Pit
+_
+Pit
+Food
++1/4 Health
+Limestone
+_
+Ice Sheets
+Water
++1/2 Health
+Cavern, Hut, Canyon
+_
+Grotto
+1/2 Partial Map
+X
+Cliff, hut, canyon
+_
+Cliff
+X
+X
+X
+_
+Hut
+Man
+X
+Ice Sheets, Out, Grotto
+_
+Out
+X
+X
+X
+_
+
